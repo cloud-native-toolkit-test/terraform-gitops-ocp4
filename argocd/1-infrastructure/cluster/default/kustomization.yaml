@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
   - base/namespace-template-gitops.yaml
   - base/openshift-marketplace-ibm-catalogs.yaml
-  - base/openshift-marketplace-ibm-entitlement-key.yaml
